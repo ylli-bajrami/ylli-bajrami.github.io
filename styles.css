@@ -479,7 +479,6 @@ section .title::after {
     height: 100%;
     left: 0;
     top: 0;
-    background: #1e3551;
 }
 
 .skills-content .right .python::before {
